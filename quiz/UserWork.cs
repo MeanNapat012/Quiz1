@@ -4,7 +4,7 @@ class UserWork
 {
     public string[] work = {"store staff", "food delivery man"};
     public string[] nameWork = {"Saidee", "nondee", "Apaidee", "Tomdee"};
-    public string[] age = {"20","18","22","25","23"};
+    public int[] age = {20,18,22,25,23};
     public string[] surnameWork = {"rukdee", "Jaidee","riendee", "ngandee", "rgnndee"};
     public int[] moneywork = {15000, 12500};
 
